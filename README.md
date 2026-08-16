@@ -1,5 +1,3 @@
-Заменил всё на английский, а в примерах вместо Казахстана — США (например, Нью-Йорк, Центральный парк).  
-
 # 📸 EXIF Metadata API
 
 > A powerful REST API for reading, writing, and deleting image metadata (EXIF, IPTC, XMP, GPS, MakerNotes, C2PA) built in Rust.
