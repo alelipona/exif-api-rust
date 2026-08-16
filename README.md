@@ -387,7 +387,7 @@ This project would not have been possible without the incredible work of the ope
 
 - **[ExifTool](https://exiftool.org/)** by **Phil Harvey** — the industry-standard tool for reading, writing, and editing metadata. This API relies heavily on its powerful metadata processing capabilities.
 
-- **Photo by [Zeynep S.](https://unsplash.com/@zeynep_ss) on [Unsplash](https://unsplash.com)** — the beautiful test image used throughout the documentation and examples. Unsplash provides stunning freely usable photography.
+- **Photo by [Zeynep S.](https://unsplash.com/@ispywithmylittleeye?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText") on [Unsplash](https://unsplash.com)** — the beautiful test image used throughout the documentation and examples. Unsplash provides stunning freely usable photography.
 
 - **[DeepSeek](https://deepseek.com)** — the AI assistant that helped with code architecture, debugging, and documentation throughout the development process.
 
