@@ -1,0 +1,15 @@
+services:
+  exif-api:
+    build: .
+    image: exif-api:latest
+    container_name: exif-api
+    hostname: exif-api
+    restart: unless-stopped
+    environment:
+      - HOST=0.0.0.0
+      - PORT=3000
+      - RUST_LOG=info
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./uploads:/tmp

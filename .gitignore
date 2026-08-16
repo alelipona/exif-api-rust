@@ -1,0 +1,29 @@
+# Rust
+/target/
+**/*.rs.bk
+*.pdb
+*.dll
+*.exe
+*.so
+*.dylib
+Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+uploads/
+test_results/
+.env
+*.log
+
+# Temporary files
+*.tmp
+*.temp
